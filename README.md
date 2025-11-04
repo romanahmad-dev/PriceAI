@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PriceAI - AI-Powered Price Comparison
 
 An intelligent price comparison platform that uses web scraping, vector search, and generative AI to find you the best deals across multiple e-commerce sites.
@@ -125,3 +126,7 @@ MIT
 ## Support
 
 For issues or questions, open an issue on GitHub.
+=======
+# PriceAI
+Product recommendation system
+>>>>>>> 3aa010f443030d2f9fc59d124b7481dedb5b15f7
